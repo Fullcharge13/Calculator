@@ -20,7 +20,7 @@
 ### 🚀 실행 방법
 이 프로젝트는 순수 HTML/CSS/JS로 작성되었습니다. 추가적인 설치 없이 브라우저에서 바로 실행할 수 있습니다.
 1. 이 저장소를 클론하거나 다운로드합니다.
-2. `index.html` 파일을 더블 클릭하여 웹 브라우저에서 엽니다.
+2. `Cat Engineering Calculator__v1.html` 파일을 더블 클릭하여 웹 브라우저에서 엽니다.
 
 ---
 
@@ -38,7 +38,7 @@
 ### 🚀 How to Run
 This project is built with pure HTML/CSS/JS. You can run it directly in your browser without any installation.
 1. Clone or download this repository.
-2. Double-click the `index.html` file to open it in your web browser.
+2. Double-click the `Cat Engineering Calculator__v1.html` file to open it in your web browser.
 
 ---
 
@@ -56,7 +56,7 @@ This project is built with pure HTML/CSS/JS. You can run it directly in your bro
 ### 🚀 実行方法
 このプロジェクトは純粋なHTML/CSS/JSで作られています。追加のインストールは不要で、ブラウザですぐに実行できます。
 1. このリポジトリをクローンまたはダウンロードします。
-2. `index.html` ファイルをダブルクリックして、ウェブブラウザで開きます。
+2. `Cat Engineering Calculator__v1.html` ファイルをダブルクリックして、ウェブブラウザで開きます。
 
 ---
 
@@ -74,4 +74,4 @@ This project is built with pure HTML/CSS/JS. You can run it directly in your bro
 ### 🚀 运行方法
 本项目使用纯 HTML/CSS/JS 编写。无需任何额外安装，直接在浏览器中运行即可。
 1. 克隆或下载此仓库。
-2. 双击 `index.html` 文件即可在 Web 浏览器中打开。
+2. 双击 `Cat Engineering Calculator__v1.html` 文件即可在 Web 浏览器中打开。
