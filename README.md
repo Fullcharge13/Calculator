@@ -90,8 +90,3 @@ Built with pure HTML/CSS/JS. Run directly in your browser without installation.
 
 ---
 
-
-https://math.berkeley.edu/~elafandi/euler/?utm_source=perplexity
-
----
-
