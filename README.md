@@ -90,4 +90,19 @@ Built with pure HTML/CSS/JS. Run directly in your browser without installation.
 
 ---
 
+## Reference Links
+
+https://www.mathpro.co.kr/?utm_source=perplexity
+
+https://www.modoo-math.com/index.php
+
+https://monica.im/ko/study/ai-math-solver
+
+https://tutorial.math.lamar.edu/?utm_source=perplexity
+
+https://artofproblemsolving.com/
+
+https://math.berkeley.edu/~elafandi/euler/?utm_source=perplexity
+
+---
 
