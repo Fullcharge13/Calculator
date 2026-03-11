@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🇰🇷 한국어](#-한국어) | [🇺🇸 English](#-english) | [🇯🇵 日本語](#-日本語) | [🇨🇳 中文](#-中文)
-
 ---
 
 🇰🇷 한국어 (Korean)
