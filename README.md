@@ -3,10 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-Dog Engineering Calculator v2
+Dog Engineering Calculator
 
 💡 Executive Summary
-The Dog Engineering Calculator v2 is an interactive, Tamagotchi-style learning tool where a pixel-art puppy reacts to your math results and evolves as you solve quizzes. It combines professional engineering calculation features with gamified education to make mathematics more engaging for students of all levels.
+The Dog Engineering Calculator is an interactive, Tamagotchi-style learning tool where a pixel-art puppy reacts to your math results and evolves as you solve quizzes. It combines professional engineering calculation features with gamified education to make mathematics more engaging for students of all levels.
 
 🐾 v1.0 Legacy Features
 The core features established in the initial version include:
