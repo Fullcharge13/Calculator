@@ -1,0 +1,20 @@
+{
+  "name": "dog-engineering-calculator",
+  "version": "1.0.0",
+  "description": "Test suite for Dog Engineering Calculator",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": ["**/tests/**/*.test.js"],
+    "collectCoverageFrom": ["tests/helpers/**/*.js"],
+    "coverageReporters": ["text", "lcov", "html"]
+  }
+}
